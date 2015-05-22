@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\FAMILIA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\FAMILIA\Desktop\moviles\Lab5\EjFragMaestroDetalle-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-5a8274a8e969346b84ce4e687a6a132e98f094d7.jar" />
+    </item>
+
+</items>

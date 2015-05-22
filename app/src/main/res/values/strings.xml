@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemploMaestroDetalle</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Bares_m">Bares</string>
+    <string name="wellcome">Bienvenido a Fredonia turística </string>
+    <string name="hoteles">HOTELES</string>
+    <string name="bares">BARES</string>
+    <string name="turismo">SITIOS O EVENTOS TURÍSTICOS</string>
+    <string name="info">INFORMACIÓN</string>
+    <string name="acerca">ACERCA DE...</string>
+    <string name="title_activity_hotel">Hoteles</string>
+    <string name="volver">volver</string>
+    <string name="hotel1_n">HOTEL Cerro Bravo</string>
+    <string name="hotel1_t">Tel: 840-32-52.</string>
+    <string name="hotel1_l">Parque principal</string>
+    <string name="hotel2_n">HOTEL Los Robles</string>
+    <string name="hotel2_t">Tel: 842-23-47.</string>
+    <string name="hotel2_l">Esquina Cra50 con Clle47</string>
+    <string name="hotel3_n">HOTEL Poblanco</string>
+    <string name="hotel3_t">Tel: 840-14-22.</string>
+    <string name="hotel3_l">Cra50 N°50-54.</string>
+    <string name="title_activity_bar">Bares</string>
+    <string name="bar1_n">BAR El Charquito</string>
+    <string name="bar1_t">Tel: 840-20-22.</string>
+    <string name="bar1_l">Parque principal</string>
+    <string name="bar2_n">TABERNA El Chorrito</string>
+    <string name="bar2_t">Tel: 840-27-76.</string>
+    <string name="bar2_l">Parque principal</string>
+    <string name="bar3_n">HELADERIA Montecarlo</string>
+    <string name="bar3_t">Tel: 840-12-40.</string>
+    <string name="bar3_l">Parque principal</string>
+    <string name="title_activity_turism">Turismo</string>
+    <string name="site1_n">Cerro Bravo</string>
+    <string name="site1_t">Reserva forestal, antiguo volcan</string>
+    <string name="site1_l">entre Fredonia y Venecia.</string>
+    <string name="site2_n">Cerro Combia</string>
+    <string name="site2_t">Parque Cristo Rey y La Cruz</string>
+    <string name="site2_l">En lo más alto del cerro</string>
+    <string name="site3_n">Evento anual de festividad:</string>
+    <string name="site3_t">LAS FIESTAS DEL CAFE.</string>
+    <string name="site3_l">Como región cafetera por excelencia, desde Dic 25 hasta Dic 28.</string>
+    <string name="title_activity_info">Información</string>
+    <string name="info1">Ubicación: Es un municipio del Suroeste de Antioquia, Limita con Tarso, Venecia, Jericó, Amagá, Caldas, entre otros. </string>
+    <string name="info2">Su clima es muy variado, presenta un terreno muy quebrado, tiene una extensión de 247 Kms2 y una altitud de 1800 mts sobre el nivel del mar.  </string>
+    <string name="info3">Su escudo muestra el producto que más lo identifica, el cafe, el cual es el fuerte en la economía de este hermoso municipio.</string>
+    <string name="title_activity_about">Acerca de...</string>
+    <string name="acercade">Aplicación para promocionar el municipio de Fredonia como sitio turístico, dando información sobre sitios y eventos de interes. Desarrollada en el curso de Desarrollo de aplicaciones moviles de la Universidad de Antioquia. Por Carlos José Cortés Rivera.</string>
+    <string name="nada">   </string>
+</resources>
